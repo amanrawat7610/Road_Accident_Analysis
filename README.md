@@ -1,4 +1,6 @@
 🚦 UK Road Accident Analysis Dashboard
+![alt text](<Screenshot 2026-05-14 075415.png>)
+
 📌 Project Overview
 
 This project is a complete Data Analytics & Visualization solution built using UK road accident data from 2021–2022. The goal of the project is to analyze accident trends, identify high-risk factors, and create an interactive dashboard for data-driven decision making.
@@ -122,10 +124,12 @@ Machine Learning Prediction Models
 GPS Heatmap Analysis
 Real-Time Traffic Integration
 AI-Based Risk Forecasting
+
+
 👨‍💻 Author
 Aman Singh Rawat
 
-Linkedin Profile![alt text](image.png)-https://www.linkedin.com/in/aman-singh-rawat-330803229/
+Linkedin Profile-https://www.linkedin.com/in/aman-singh-rawat-330803229/
 
 
-![alt text](<Screenshot 2026-05-14 075415.png>)
+
